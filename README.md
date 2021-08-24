@@ -1,8 +1,5 @@
 ### Hi there 👋
-![Alexej's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexejKossmann&count_private=true?theme=DRACULA)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexejKossmann&layout=compact)](https://github.com/AlexejKossmann)
-
-
+![Alexej's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexejKossmann&count_private=true&theme=DRACULA&show_icons=true)
 <!--
 **AlexejKossmann/AlexejKossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
